@@ -2,7 +2,9 @@
 
 - 😄 Sou a Andressa, Desenvolvedora Front-End HTML | CSS | JavaScript | Bootstrap
 
-- 📚 Aprofundando cada vez mais os conhecimentos na área e sempre evoluindo para dar o melhor nos projetos.
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas - Universidade Presbiteriana Mackenzie
+
+- 📖 Aprofundando cada vez mais os conhecimentos na área e sempre evoluindo para dar o melhor nos projetos.
 
 - 💬 Sempre disposta a ajudar e tirar dúvidas, se tiver alguma contribuição para algum dos projetos aqui publicados, vou ficar feliz de saber e podemos trocar ideias.
 
